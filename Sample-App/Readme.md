@@ -128,6 +128,50 @@ Check Status	systemctl status nginx
 ```
 ## Images:
 
+## 1. Create Azure Virtual Image:
+
+<img width="1915" height="898" alt="Image" src="https://github.com/user-attachments/assets/1b879b8f-03bc-48d0-a27e-c131fb48198b" />
+
+## 2. Sample Virtual Image:
+
+<img width="1910" height="933" alt="Image" src="https://github.com/user-attachments/assets/c152af49-e32a-40fe-a061-cc7517545f73" />
+
+## 3. Azure SSH Command:
+
+<img width="1908" height="903" alt="Image" src="https://github.com/user-attachments/assets/3c0764bd-1c69-47c9-8471-ea33e1205020" />
+
+## 4. Connect the Server:
+
+<img width="778" height="157" alt="Image" src="https://github.com/user-attachments/assets/2d7be3e3-69f2-448d-a653-aafbc5862c51" />
+
+## 5. Nginx Command:
+
+<img width="696" height="121" alt="Image" src="https://github.com/user-attachments/assets/d82a5565-46f4-475c-95f3-167d6c03505f" />
+
+## 6. Nginx Status Command:
+
+<img width="767" height="131" alt="Image" src="https://github.com/user-attachments/assets/d5119914-b002-4efa-bc8e-56fd6c6a8317" />
+
+## 7. Status Image:
+
+<img width="1495" height="528" alt="Image" src="https://github.com/user-attachments/assets/0d8dcfbe-d41d-43f3-9ab2-a2ea5a511503" />
+
+## 8. Nginx Sample Output:
+
+<img width="1570" height="543" alt="Image" src="https://github.com/user-attachments/assets/d3904ff5-b591-4ba8-ab6a-c4d907a76649" />
+
+## 9. Debian Index.html:
+
+<img width="642" height="226" alt="Image" src="https://github.com/user-attachments/assets/f3766495-8e96-40b4-b002-d5529437611a" />
+
+## 10. Nginx Output:
+
+<img width="1508" height="476" alt="Image" src="https://github.com/user-attachments/assets/dacc9555-edef-428c-bc59-3d6587d59274" />
+
+## 11. Loginform Output:
+
+<img width="1907" height="1017" alt="Image" src="https://github.com/user-attachments/assets/081c7c00-62c6-4a80-995f-9615bd0cd3cb" />
+
 ## Summary:
 
 ## You’ve successfully:
