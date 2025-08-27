@@ -1,4 +1,4 @@
-## Deploy the Webserver by using user's data:
+<img width="1917" height="917" alt="Create VM Image-1" src="https://github.com/user-attachments/assets/434e558c-5457-4965-9d23-35a43f11aa14" />## Deploy the Webserver by using user's data:
 
 ## Objective: 
 
@@ -80,6 +80,30 @@ Application repository is cloned into /var/www/html/.
 Cloud-init logs at /var/log/cloud-init.log help troubleshoot issues 
 
 ## Images:
+
+## 1. Create Virtual Machine:
+
+<img width="1917" height="917" alt="Image" src="https://github.com/user-attachments/assets/a22b6ac9-618a-43e9-a84f-aa94e38d7291" />
+
+## 2. User's Data in virtual machine:
+
+<img width="1912" height="906" alt="Image" src="https://github.com/user-attachments/assets/af24f56f-b505-42fe-affb-66d6df204786" />
+
+## 3. Change the permissions in script.sh:
+
+<img width="1017" height="677" alt="Image" src="https://github.com/user-attachments/assets/50685c66-faa2-4e99-9a3f-e6061135cb17" />
+
+## 4. Script Executed:
+
+<img width="1358" height="887" alt="Image" src="https://github.com/user-attachments/assets/6ff526bc-707f-4b7e-a2a5-a2404b45ae0f" />
+
+## 5. Nginx Started:
+
+<img width="1540" height="500" alt="Image" src="https://github.com/user-attachments/assets/cabafc88-5814-4deb-ad52-62d99fd7ae40" />
+
+## 6. User' data in webserver Output :
+
+<img width="1917" height="1013" alt="Image" src="https://github.com/user-attachments/assets/73002d62-fe9a-48d5-9259-d66aa93211bc" />
 
 ## Author:
 
