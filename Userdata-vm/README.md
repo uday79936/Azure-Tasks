@@ -1,4 +1,4 @@
-<img width="1917" height="917" alt="Create VM Image-1" src="https://github.com/user-attachments/assets/434e558c-5457-4965-9d23-35a43f11aa14" />## Deploy the Webserver by using user's data:
+## Deploy the Webserver by using user's data:
 
 ## Objective: 
 
