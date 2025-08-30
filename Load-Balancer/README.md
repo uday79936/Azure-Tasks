@@ -219,5 +219,5 @@ Delete the resource group AppGatewayLabRG.
 
 **Mail-Id:** saikommineni5@gmail.com
 
-**Linkedin-Url:** https://www.linkedin.com/in/uday-sai-ram-kommineni-uday-sai-ram/S
+**Linkedin-Url:** https://www.linkedin.com/in/uday-sai-ram-kommineni-uday-sai-ram/
 
