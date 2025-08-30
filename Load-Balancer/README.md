@@ -181,6 +181,30 @@ Rule	Binds listener → pool using HTTP settings
 
 ## Images:
 
+## 1. Aja.vnet Virtual machine:
+
+<img width="1911" height="1012" alt="Image" src="https://github.com/user-attachments/assets/1e2eae75-cce8-4449-83b9-48aed855e228" />
+
+## 2. App-1-server Virtual Machine:
+
+<img width="1917" height="1006" alt="Image" src="https://github.com/user-attachments/assets/4f934366-d537-433e-8f99-9fdc94bb9465" />
+
+## 3. APP-1-Output:
+
+<img width="1917" height="1013" alt="Image" src="https://github.com/user-attachments/assets/76c0dddd-bf55-4bbf-aed3-19448b433902" />
+
+## 4. App-2-Output:
+
+<img width="1912" height="997" alt="Image" src="https://github.com/user-attachments/assets/4ed03713-5bf1-4eb4-97f4-add526c6618b" />
+
+## 5. App-Load-Balancer:
+
+<img width="1905" height="998" alt="Image" src="https://github.com/user-attachments/assets/02f67c9e-de44-47ae-bd3c-079f00e72710" />
+
+## 6. Load-Balancer-Output:
+
+<img width="1912" height="1017" alt="Image" src="https://github.com/user-attachments/assets/47bc72e4-ccc1-4cb3-9dcd-e7700078367a" />
+
 
 ## 13. Cleanup (to avoid charges):
 
