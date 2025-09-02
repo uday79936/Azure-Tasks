@@ -126,9 +126,41 @@ az group delete --name VMSSLabRG --yes --no-wait
 
 ## Images:
 
+## 1. aja.vnet virtual network:
 
+<img width="1911" height="923" alt="Image" src="https://github.com/user-attachments/assets/174e9cca-d20c-46ad-8c13-850de0bc371d" />
 
+## 2. APP-1 Virtual Machine:
 
+<img width="1913" height="897" alt="Image" src="https://github.com/user-attachments/assets/3cfacdfb-7e41-489a-8fd4-d3bdd30c3b21" />
+
+## 3. APP-1 Output:
+
+<img width="1918" height="926" alt="Image" src="https://github.com/user-attachments/assets/2250d2d5-196a-4c40-81db-516933e225d7" />
+
+## 4. APP-2 Virtual Machine:
+
+<img width="1918" height="910" alt="Image" src="https://github.com/user-attachments/assets/2d934b97-5774-4012-832f-1c911ae8fce8" />
+
+## 5. APP-2 Output:
+
+<img width="1916" height="917" alt="Image" src="https://github.com/user-attachments/assets/26e8bf89-0cdc-43b2-9992-eebb6c5a6341" />
+
+## 6. APP Load balancer:
+
+<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/dc44124b-8329-4ba5-9da0-28b5c56e4f4a" />
+
+## 7. APP Load Balancer Output:
+
+<img width="1910" height="972" alt="Image" src="https://github.com/user-attachments/assets/3ad19eb6-3907-4905-8fe7-aa47d2c182c8" />
+
+## 8. Virtual Machine Scale Set:
+
+<img width="1911" height="967" alt="Image" src="https://github.com/user-attachments/assets/4e205c09-5939-4fc1-8062-90bdd82ccc84" />
+
+## 9. Virtual Machine Scale Output:
+
+<img width="1898" height="966" alt="Image" src="https://github.com/user-attachments/assets/cdccc4d7-2b36-4e3f-bd18-9d7a89dcad1a" />
 
 ## 📈 Lab Summary:
 
