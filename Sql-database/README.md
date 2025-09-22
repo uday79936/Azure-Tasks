@@ -111,6 +111,18 @@ Explore the Geo-Replication option to configure a secondary read-only replica in
 
 ## Images:
 
+## 1. Azure Sql Server:
+
+<img width="1917" height="912" alt="Image" src="https://github.com/user-attachments/assets/5b1723b3-6949-42a4-bb5d-19c8fcdbc334" />
+
+## 2. Azure Database:
+
+<img width="1915" height="912" alt="Image" src="https://github.com/user-attachments/assets/2b9e8a54-8352-4e6f-b3b0-03f1e1771ade" />
+
+## 3. Azure Output:
+
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fb67550a-8795-4177-b697-23de33d33db9" />
+
 
 
 ## ⚠️ Clean Up:
