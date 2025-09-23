@@ -119,7 +119,27 @@ Explore the Geo-Replication option to configure a secondary read-only replica in
 
 <img width="1915" height="912" alt="Image" src="https://github.com/user-attachments/assets/2b9e8a54-8352-4e6f-b3b0-03f1e1771ade" />
 
-## 3. Azure Output:
+## 3. Connection Strings:
+
+<img width="1913" height="907" alt="Image" src="https://github.com/user-attachments/assets/80d56576-94e3-4ec1-a843-ec15884917b3" />
+
+## 4. Java JDBC Connection strings:
+
+<img width="1907" height="913" alt="Image" src="https://github.com/user-attachments/assets/5e1b0bec-56cf-4371-9d38-f944013c9ec3" />
+
+## 5. ODBC Connection Strings:
+
+<img width="1917" height="890" alt="Image" src="https://github.com/user-attachments/assets/967856f4-c735-4d08-9019-7d779bfb1fe9" />
+
+## 6. PHP Connection strings:
+
+<img width="1916" height="907" alt="Image" src="https://github.com/user-attachments/assets/cd3b0b71-a8cc-47ae-b287-0331d596013f" />
+
+## 7. GO Connection Strings:
+
+<img width="1912" height="917" alt="Image" src="https://github.com/user-attachments/assets/f4feba2c-812e-4b6a-84e3-4973522e5d15" />
+
+## 8. Azure Output:
 
 <img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/fb67550a-8795-4177-b697-23de33d33db9" />
 
